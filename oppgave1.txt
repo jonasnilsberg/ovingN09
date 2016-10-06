@@ -1,0 +1,7 @@
+1. Bruk en pakkesniffer, f.eks. wireshark. Send og motta epost, sjekk hvilke sikkerhetstiltak
+som er i bruk:
+ - SSL
+a) Finner du meldingsteksten i pakkene, eller er den skjult?
+- Pakkene er skjult fordi alt sendes gjennom en SSL tunnel som inneholder HTTP trafikken, 
+b) Kan du finne igjen epostpassordet ditt i pakkene?
+ - Samme som i opg a)
